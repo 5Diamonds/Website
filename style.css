@@ -318,3 +318,13 @@ orange ea6054 oder als alternative ffbf80*/
 	}
 
 }
+
+.overlay-impressum a{
+	color: white;
+	text-decoration: none;
+	letter-spacing: 1px;
+	font-size: 1.5rem;
+	font-weight: bold;
+	transition: all 0.s ease 0s;
+	padding: 0;
+}
